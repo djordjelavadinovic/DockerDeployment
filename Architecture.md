@@ -16,6 +16,10 @@
 14. Provisioning of developer's boxes
 15. Handling branches(?)
 
+## Example of CI
+
+https://blog.codecentric.de/en/2015/10/continuous-integration-platform-using-docker-container-jenkins-sonarqube-nexus-gitlab/
+
 ## Caching
 
 NPM cache
